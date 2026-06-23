@@ -1,6 +1,6 @@
-# F5 real-time webhook probe — 2026-06-23. Intentional failure.
+# F5 real-time webhook LIVE TEST — 20260623T210141Z. Intentional failure.
 def add(a, b):
-    return a - b  # BUG
+    return a - b  # BUG (intentional)
 
 
 def test_add():
